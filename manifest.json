@@ -1,0 +1,19 @@
+{
+    "name": "Frieren - A Elfa",
+    "short_name":"Frieren",
+    "start_url": "index.html",
+    "display": "standalone",
+    "icons":[
+        {
+        "src":"icons/ic_launcher.png",
+        "sizes":" 192X192",
+        "type": "image/png"
+        },
+        {
+        "src":"icons/playstore.png",
+        "sizes":" 512X512",
+        "type": "image/png"
+        }
+
+    ]
+}
