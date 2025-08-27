@@ -13,5 +13,5 @@ body {
 .imagem{
     justify-content: center;
     padding-top: 10px;
-    height: 350px;
+    height: 100vh;
 }
