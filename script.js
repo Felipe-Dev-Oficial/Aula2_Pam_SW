@@ -7,3 +7,5 @@ if ("serviceWorker" in navigator) {
         console.log("Error trying register Service Worker", error)
     });    
 }
+
+const botao = document.getElementById("addButton");
